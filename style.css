@@ -1,0 +1,37 @@
+body {
+    margin: 0%;
+    padding: 0%;
+}
+
+h1 {
+    margin-left: 20px;
+    display: inline-block;
+}
+
+.contenedor {
+    padding: 10px;
+}
+
+.amarillo {
+    margin: 10px 0 0 20px;
+    display: block;
+    color: yellow;
+    font-size: 25px;
+    font-weight: 800;
+}
+
+.amarillo:hover {
+    color: green;
+}
+
+.morado {
+    margin: 10px 0 0 20px;
+    display: block;
+    font-size: 25px;
+    color: blueviolet;
+    font-weight: 800;
+}
+
+.morado:hover {
+    color: red;
+}
